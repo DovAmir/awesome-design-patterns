@@ -63,28 +63,56 @@ Lists of software related patterns
 ## GoF
 
 
-## Architecture
-
-- [Microservices](http://microservices.io/patterns) - A pattern language for microservices.
+## General Architecture
 - [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common Software Architectural Patterns in a nutshell.
+- [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn
+- [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - scalable system design techniques
+- [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture
+- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - comparing-message-queue-architectures
+- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration
+
+## Cloud Architecture
+- [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP)
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) -These design patterns are useful for building reliable, scalable, secure applications in the cloud..
+- [cloud patterns](http://cloudpatterns.org/) - a community site dedicated to documenting a master patterns catalog
+- [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns
+- [serverless](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns
+- [serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures
+
+## Micro services & Decentralized Systems
+- [microservice patterns](http://microservicepatterns.org/) - a community site dedicated to documenting a master patterns catalog
+- [Microservices](http://microservices.io/patterns) - A pattern language for microservices.
+- [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
+- [12factor](https://12factor.net/) - The twelve-factor methodology.
+
+## Big Data
+- [bigdatapatterns](http://bigdatapatterns.org/) - a community site dedicated to documenting a master patterns catalog
+
+
+## Databases
+
+- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise
+- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques
+- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
 
 
 
+## Docker and DevOps
 
-## DevOps
+- [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
+- [Kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 
-- [Microservices](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
+
 
 
 
 ## Mobile
 
-## Programming Languages
+## Programming Languages (non GoF)
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
-	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
+- [JavaScript]()
+	- [react](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns) - React.js in patterns.
+	
 
 ## UI/UX
 
@@ -95,28 +123,21 @@ Lists of software related patterns
 
 
 
-## Big Data
 
 
-
-## Books
 
 
 
 ## Development Environment
 
-## Databases
-
-- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise
-
 
 ## Security
+- [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns
 
 
 ## Networking
 
-## Decentralized Systems
-
+## Books
 
 ## Miscellaneous
 

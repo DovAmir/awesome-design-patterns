@@ -1,5 +1,5 @@
 # awesome-patterns
-Lists of software related patterns
+Lists of software related patterns (work in progress)
 
 <div align="center">
 	<img width="500" src="media/logo.svg" alt="Awesome">
@@ -60,7 +60,48 @@ Lists of software related patterns
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 
-## GoF
+## Language/Framework specifc (GoF and others)
+- [Angular]
+	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
+- [Cat]
+	- [hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
+- [C#]
+	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
+- [C++]
+	- [design-patterns](http://www.vincehuston.org/dp/)
+- [Go]
+	- [design-patterns](http://tmrts.com/go-patterns/)
+- [Java]
+	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
+	
+- [JavaScript]
+	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+	- [js_designpatterns](https://github.com/nnupoor/js_designpatterns)
+	- [addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+	
+- [Kotlin]
+	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
+- [PHP]
+	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
+- [Python]
+	- [design-patterns](https://github.com/faif/python-patterns) 
+	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) 
+	
+	
+- [React]
+	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+	- [react-bits](https://github.com/vasanthk/react-bits)
+	
+- [Ruby]
+	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
+- [Scala]
+	- [scala-design-patterns](https://github.com/josephguan/scala-design-patterns)
+	
+- [Swift]
+	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [TypeScript]
+	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
 
 
 ## General Architecture
@@ -68,12 +109,11 @@ Lists of software related patterns
 - [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn
 - [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - scalable system design techniques
 - [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture
-- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - comparing-message-queue-architectures
-- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ## Cloud Architecture
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP)
-- [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) -These design patterns are useful for building reliable, scalable, secure applications in the cloud..
+- [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud..
 - [cloud patterns](http://cloudpatterns.org/) - a community site dedicated to documenting a master patterns catalog
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns
 - [serverless](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns
@@ -84,6 +124,11 @@ Lists of software related patterns
 - [Microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net/) - The twelve-factor methodology.
+- [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
+- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - comparing-message-queue-architectures
+- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration
+
+
 
 ## Big Data
 - [bigdatapatterns](http://bigdatapatterns.org/) - a community site dedicated to documenting a master patterns catalog
@@ -118,26 +163,25 @@ Lists of software related patterns
 
 - [User Interface](http://ui-patterns.com/) - User Interface Design patterns.
 - [smacss](https://smacss.com/) - Scalable and Modular Architecture for CSS.
+- [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
-## Computer Science
-
-
-
-
-
-
-
-
-## Development Environment
 
 
 ## Security
 - [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns
 
-
-## Networking
-
 ## Books
+http://shop.oreilly.com/product/0636920027041.do
+
+https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns
+
+https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=0596007124&pd_rd_r=Z22FRDFGGW5DT77EB1ZB&pd_rd_w=FccM6&pd_rd_wg=PZjyX&psc=1&refRID=Z22FRDFGGW5DT77EB1ZB
+
+
+https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0134685997&pd_rd_r=Z22FRDFGGW5DT77EB1ZB&pd_rd_w=FccM6&pd_rd_wg=PZjyX&psc=1&refRID=Z22FRDFGGW5DT77EB1ZB
+
+
+
 
 ## Miscellaneous
 

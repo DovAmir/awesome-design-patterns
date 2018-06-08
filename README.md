@@ -44,16 +44,16 @@ Lists of software related patterns (work in progress)
 
 
 ## Contents
-
-- [GoF](#GoF design patterns (Language/Framework specifc) )
-- [General Architecture](#General Architecture)
-- [Cloud Architecture](#Cloud Architecture)
-- [Micro services & Decentralized Systems](#Micro services & Decentralized Systems)
+- [GoF design patterns](#GoF-design-patterns-(Language/Framework-specifc) )
+- [General Architecture](#General-Architecture)
+- [Cloud Architecture](#Cloud-Architecture)
+- [Micro services & Decentralized Systems](#Micro-services-&-Decentralized-Systems)
+- [Internet of things](#Internet-of-things)
 - [Big Data](#Big Data)
 - [Databases](#Databases)
-- [Docker and DevOps](#Docker and DevOps)
+- [Docker and DevOps](#Docker-and-DevOps)
 - [Mobile](#Mobile)
-- [Front-End Development](#front-end-development)
+- [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#Books)
 - [Miscellaneous](#miscellaneous)
@@ -62,7 +62,7 @@ Lists of software related patterns (work in progress)
 - [Angular]
 	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
 - [Cat]
-	- [hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
+	- [patterns for hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
 - [C#]
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 - [C++]
@@ -121,18 +121,31 @@ Lists of software related patterns (work in progress)
 - [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - comparing-message-queue-architectures
 - [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration
 
+## Internet of things
+- [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns
+- [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture
+
 ## Big Data
 - [bigdatapatterns](http://bigdatapatterns.org/) - a community site dedicated to documenting a master patterns catalog
 - [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/) - MAPREDUCE PATTERNS, ALGORITHMS, AND USE CASES
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
 
 ## Databases
-- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise
-- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques
-- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
+- [SQL]
+	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
+	- [databaseanswers](http://www.databaseanswers.org/data_models/) -  Industry-specific SQL Data Models in 50 categories
+	- [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) -  table-design-patterns
+	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid/) -  five simple database design errors you should avoid.
+	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1/) - Data model design best practices 
+	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
+- [NOSQL]
+	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise
+	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques
+	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 
 ## Docker and DevOps
 - [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
+- [container-anti-patterns](http://blog.arungupta.me/docker-container-anti-patterns/) - 10 containers anti-patterns.
 - [Kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design/) - Container Design Patterns for Kubernetes Pods Design.
 - [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd/) - pattern-and-anti-pattern-cicd.
@@ -153,15 +166,16 @@ Lists of software related patterns (work in progress)
 
 ## Security
 - [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns
+- [martinfowler]https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
+- [cloud-security](https://www.infoq.com/articles/cloud-security-architecture-intro) - Cloud security architecture intro.
+- [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
+- [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns
 
 ## Books
 - [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
 - [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
-- [Head-First-Design-Patterns-Brain-Friendly](
-https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4
-)
-- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7
-)
+- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
 ## Miscellaneous
 

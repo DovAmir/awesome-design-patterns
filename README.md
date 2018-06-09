@@ -6,26 +6,18 @@
 
 [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
 
-<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
+<h1 align="center">
+<a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) </h1>
-
-	
-	
-	
-	
-	 
-	
-
+<a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> 
+</h1>
 
 <br>
 
-
 <br>
-
 
 ## Contents
-- [GoF design patterns](#gof-design-patterns-languageframework-specifc) )
+- [GoF design patterns](#gof-design-patterns-languageframework-specifc)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
 - [Micro services & Decentralized Systems](#micro-services--decentralized-systems)
@@ -82,49 +74,49 @@
 	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
 	
 ## General Architecture
-- [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common Software Architectural Patterns in a nutshell.
-- [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn
-- [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - scalable system design techniques
-- [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture
+- [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
+- [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
+- [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
+- [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ## Cloud Architecture
-- [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP)
-- [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud..
-- [cloud patterns](http://cloudpatterns.org/) - a community site dedicated to documenting a master patterns catalog
-- [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns
-- [serverless](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns
-- [serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures
+- [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
+- [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud.
+- [cloud patterns](http://cloudpatterns.org/) - A community site dedicated to documenting a master patterns catalog.
+- [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns.
+- [serverless](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns.
+- [serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures.
 
 ## Micro services & Decentralized Systems
-- [microservice patterns](http://microservicepatterns.org/) - a community site dedicated to documenting a master patterns catalog
+- [microservice patterns](http://microservicepatterns.org/) - A community site dedicated to documenting a master patterns catalog.
 - [Microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net/) - The twelve-factor methodology.
 - [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
-- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - comparing-message-queue-architectures
-- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration
+- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws/) - Comparing-message-queue-architectures.
+- [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
 
 ## Internet of things
-- [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns
-- [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture
+- [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.
+- [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture.
 
 ## Big Data
-- [bigdatapatterns](http://bigdatapatterns.org/) - a community site dedicated to documenting a master patterns catalog
-- [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/) - MAPREDUCE PATTERNS, ALGORITHMS, AND USE CASES
+- [bigdatapatterns](http://bigdatapatterns.org/) - A community site dedicated to documenting a master patterns catalog.
+- [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/) - Map-reduce patterns.
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
 
 ## Databases
 - [SQL]
 	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
-	- [databaseanswers](http://www.databaseanswers.org/data_models/) -  Industry-specific SQL Data Models in 50 categories
-	- [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) -  table-design-patterns
+	- [databaseanswers](http://www.databaseanswers.org/data_models/) -  Industry-specific SQL Data Models in 50 categories.
+	- [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
 	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid/) -  five simple database design errors you should avoid.
-	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1/) - Data model design best practices 
+	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1/) - Data model design best practices. 
 	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
 - [NOSQL]
-	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise
-	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques
+	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise/) - Practical NoSQL resilience design pattern for the enterprise.
+	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 
 ## Docker and DevOps
@@ -132,13 +124,13 @@
 - [container-anti-patterns](http://blog.arungupta.me/docker-container-anti-patterns/) - 10 containers anti-patterns.
 - [Kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design/) - Container Design Patterns for Kubernetes Pods Design.
-- [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd/) - pattern-and-anti-pattern-cicd.
+- [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd/) - Pattern and anti-pattern cicd.
 
 ## Mobile
 - [ios]
 	- [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - [Android]
-	- [androidpatterns](https://unitid.nl/androidpatterns/) -  interaction patterns that can help you design Android apps. 
+	- [androidpatterns](https://unitid.nl/androidpatterns/) - Interaction patterns that can help you design Android apps. 
 	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
 	
 ## Front-End Development
@@ -149,11 +141,11 @@
 - [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
 
 ## Security
-- [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns
+- [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.
 - [martinfowler]https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
 - [cloud-security](https://www.infoq.com/articles/cloud-security-architecture-intro) - Cloud security architecture intro.
 - [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
-- [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns
+- [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
 ## Books
 - [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
@@ -161,16 +153,16 @@
 - [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
-## Vidoes
+## Videos
  - [TODO]
  
 ## Miscellaneous
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
+- Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Contributing
-Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 

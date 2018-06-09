@@ -14,3 +14,11 @@ Please ensure your pull request adheres to the following guidelines:
 - Good design patterns resources should have at least 5 patterns with detailed descriptions.
 
 Thank you for your suggestions!
+
+# Contribution to GitHub
+
+Fork it!
+Create your branch: git checkout -b my-new-branch
+Commit your changes: git commit -am 'fix stuff'
+Push to the branch: git push origin my-new-branch
+Submit a pull request

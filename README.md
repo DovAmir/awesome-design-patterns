@@ -183,6 +183,6 @@ Lists of software related patterns (work in progress)
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 

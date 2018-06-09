@@ -15,10 +15,10 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-# Contribution to GitHub
+# Contribution to GitHub steps
 
-Fork it!
-Create your branch: git checkout -b my-new-branch
-Commit your changes: git commit -am 'fix stuff'
-Push to the branch: git push origin my-new-branch
-Submit a pull request
+- Fork it!
+- Create your branch: git checkout -b my-new-branch
+- Commit your changes: git commit -am 'fix stuff'
+- Push to the branch: git push origin my-new-branch
+- Submit a pull request

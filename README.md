@@ -6,13 +6,17 @@
 
 [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
 
+<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) </h1>
 
-<p align="center">
 	
-	[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)]
-	[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-	[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)]
-</p>
+	
+	
+	
+	 
+	
+
 
 <br>
 

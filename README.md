@@ -1,40 +1,17 @@
-# awesome-patterns
-Lists of software related patterns (work in progress)
+# Awesome design patterns 
 
-<div align="center">
-	<img width="500" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<p>
-		<a href="https://en.wikipedia.org/wiki/Pattern_language">Pattern language - An attempt to express the deeper wisdom of what brings aliveness within a particular field</a>
-	</p>
-  <p>
-		<a href="https://en.wikipedia.org/wiki/Pattern_language">Aliveness - the quality that has no name</a>
-	</p>
-	<p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
-		</a>
-	</p>
-	<br>
-	<br>
-</div>
+> A curated list of software and architecture related design patterns (work in progress)
 
-<!--
-<p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
-	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
-</p>
+<!-- <a href="https://github.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a> -->
 
-<br>
--->
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	
+	[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+	[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+	[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 </p>
 
 <br>
@@ -44,19 +21,22 @@ Lists of software related patterns (work in progress)
 
 
 ## Contents
-- [GoF design patterns](#GoF-design-patterns-(Language/Framework-specifc) )
-- [General Architecture](#General-Architecture)
-- [Cloud Architecture](#Cloud-Architecture)
-- [Micro services & Decentralized Systems](#Micro-services-&-Decentralized-Systems)
-- [Internet of things](#Internet-of-things)
-- [Big Data](#Big Data)
-- [Databases](#Databases)
-- [Docker and DevOps](#Docker-and-DevOps)
-- [Mobile](#Mobile)
+- [GoF design patterns](#gof-design-patterns-languageframework-specifc) )
+- [General Architecture](#general-architecture)
+- [Cloud Architecture](#cloud-architecture)
+- [Micro services & Decentralized Systems](#micro-services--decentralized-systems)
+- [Internet of things](#internet-of-things)
+- [Big Data](#big-data)
+- [Databases](#databases)
+- [Docker and DevOps](#docker-and-devops)
+- [Mobile](#mobile)
 - [Front End Development](#front-end-development)
 - [Security](#security)
-- [Books](#Books)
+- [Books](#books)
+- [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
+
+<br>
 
 ## GoF design patterns (Language/Framework specifc) 
 - [Angular]
@@ -177,12 +157,18 @@ Lists of software related patterns (work in progress)
 - [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
+## Vidoes
+ - [TODO]
+ 
 ## Miscellaneous
 
+## Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
 
+## Contributing
+Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
+To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has waived all copyright and related or neighboring rights to this work.

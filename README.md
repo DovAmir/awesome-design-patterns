@@ -4,14 +4,14 @@
 
 <!-- <a href="https://github.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a> -->
 
-[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
 
 
 <p align="center">
 	
-	[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+	[![Join the chat at https://gitter.im/awesome-design-patterns/Lobby](https://badges.gitter.im/awesome-design-patterns/Lobby.svg)](https://gitter.im/awesome-design-patterns/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)]
 	[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-	[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+	[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)]
 </p>
 
 <br>

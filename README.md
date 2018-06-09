@@ -1,6 +1,6 @@
 # Awesome design patterns 
 
-> A curated list of software and architecture related design patterns (work in progress)
+> A curated list of software and architecture related design patterns.
 
 <!-- <a href="https://github.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a> -->
 

@@ -88,6 +88,10 @@
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
 
 
+## FrontEnd Architecture
+- [Elm Architecture] (https://guide.elm-lang.org/architecture/)
+- [Redux Architecture] (https://redux.js.org/basics/data-flow)
+
 ## Cloud Architecture
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud.

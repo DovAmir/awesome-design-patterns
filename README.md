@@ -35,7 +35,7 @@
 <br>
 
 ## GoF design patterns (Language/Framework specifc) 
-- [Angular]
+- [AngularJS]
 	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
 - [Cat]
 	- [patterns for hoomans](https://github.com/mlnv/design-patterns-for-hoomans)

@@ -4,7 +4,7 @@
 
 <!-- <a href="https://github.com/vitalets/awesome-smart-tv"><img align="right" width="150" src="https://user-images.githubusercontent.com/1473072/27913047-7c3a5e60-6267-11e7-8bd1-bef2bf3cd753.png"/></a> -->
 
-[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
 
 <h1 align="center">
 <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
@@ -17,7 +17,7 @@
 <br>
 
 ## Contents
-- [GoF design patterns](#gof-design-patterns-languageframework-specifc)
+- [GoF design patterns](#languageframework-design-patterns-mainly-gof)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
 - [Micro services & Decentralized Systems](#micro-services--decentralized-systems)
@@ -34,20 +34,26 @@
 
 <br>
 
-## GoF design patterns (Language/Framework specifc) 
+## Language/Framework design patterns (mainly GoF) 
 - [AngularJS]
 	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
-- [Cat]
-	- [patterns for hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
 - [C#]
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 - [C++]
 	- [design-patterns](http://www.vincehuston.org/dp/)
+- [Cat]
+	- [patterns for hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
+- [Closure]
+	- [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 - [Go]
 	- [design-patterns](http://tmrts.com/go-patterns/)
 - [Java]
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
+	- [sourcemaking](https://sourcemaking.com/design_patterns)
+	- [oodesign](https://www.oodesign.com/)
+	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+	
 - [JavaScript]
 	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
@@ -73,6 +79,8 @@
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [TypeScript]
 	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
+- [UML]
+	- [quick reference](http://www.mcdonaldland.info/2007/11/28/40/)
 	
 ## General Architecture
 - [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
@@ -126,6 +134,8 @@
 - [Kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design/) - Container Design Patterns for Kubernetes Pods Design.
 - [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd/) - Pattern and anti-pattern cicd.
+- [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Pattern and anti-pattern cicd.
+
 
 ## Mobile
 - [ios]
@@ -136,10 +146,11 @@
 	
 ## Front-End Development
 - [User Interface](http://ui-patterns.com/) - User Interface Design patterns.
-- [smacss](https://smacss.com/) - Scalable and Modular Architecture for CSS.
+- [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?.
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
-- [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
-- [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
+- [Front-End Architecture]
+	- [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
+	- [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
 
 ## Security
 - [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.
@@ -169,4 +180,5 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
+
 To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has waived all copyright and related or neighboring rights to this work.

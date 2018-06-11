@@ -57,7 +57,7 @@
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
 	- [gof-in-kotlin](https://github.com/lmller/gof-in-kotlin) 
 - [PHP]
-        - [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - [Python]
 	- [design-patterns](https://github.com/faif/python-patterns) 

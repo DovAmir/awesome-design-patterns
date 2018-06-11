@@ -14,8 +14,6 @@
 
 <br>
 
-<br>
-
 ## Contents
 - [GoF design patterns](#languageframework-design-patterns-mainly-gof)
 - [General Architecture](#general-architecture)
@@ -53,7 +51,6 @@
 	- [sourcemaking](https://sourcemaking.com/design_patterns)
 	- [oodesign](https://www.oodesign.com/)
 	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
-	
 - [JavaScript]
 	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
@@ -143,6 +140,8 @@
 - [Android]
 	- [androidpatterns](https://unitid.nl/androidpatterns/) - Interaction patterns that can help you design Android apps. 
 	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
+	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/) -  The MVC, MVP, and MVVM Smackdown. 
+	
 	
 ## Front-End Development
 - [User Interface](http://ui-patterns.com/) - User Interface Design patterns.

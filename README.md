@@ -139,6 +139,7 @@
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
 - [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
+- [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/) - Component Oriented architecture by Brad Frost
 
 ## Security
 - [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.

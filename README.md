@@ -57,6 +57,7 @@
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
 	- [gof-in-kotlin](https://github.com/lmller/gof-in-kotlin) 
 - [PHP]
+        - [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - [Python]
 	- [design-patterns](https://github.com/faif/python-patterns) 
@@ -79,7 +80,6 @@
 - [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
 - [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
-- [patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans.
 
 ## Cloud Architecture
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).

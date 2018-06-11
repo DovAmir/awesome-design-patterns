@@ -18,7 +18,7 @@
 - [GoF design patterns](#languageframework-design-patterns-mainly-gof)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
-- [Micro services & Decentralized Systems](#micro-services--decentralized-systems)
+- [Micro services & Distributed Systems](#micro-services--distributed-systems)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
 - [Databases](#databases)
@@ -85,16 +85,18 @@
 - [Scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
 - [martin fowler](https://martinfowler.com/eaaCatalog/) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+- [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+
 
 ## Cloud Architecture
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud.
 - [cloud patterns](http://cloudpatterns.org/) - A community site dedicated to documenting a master patterns catalog.
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns.
-- [serverless](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns.
-- [serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns.
+- [Solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures.
 
-## Micro services & Decentralized Systems
+## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org/) - A community site dedicated to documenting a master patterns catalog.
 - [Microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.

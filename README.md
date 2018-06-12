@@ -37,6 +37,7 @@
 	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
 - [C#]
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
+	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans)
 - [C++]
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - [Cat]

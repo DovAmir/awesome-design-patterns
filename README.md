@@ -162,6 +162,7 @@
 - [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
 ## Books
+- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed/)
 - [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
 - [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
 - [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)

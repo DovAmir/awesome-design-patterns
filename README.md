@@ -47,10 +47,10 @@
 - [Go]
 	- [design-patterns](http://tmrts.com/go-patterns/)
 - [Java]
-	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
-	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
 	- [sourcemaking](https://sourcemaking.com/design_patterns)
 	- [oodesign](https://www.oodesign.com/)
+	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
+	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
 - [JavaScript]
 	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
@@ -79,6 +79,8 @@
 	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
 - [UML]
 	- [quick reference](http://www.mcdonaldland.info/2007/11/28/40/)
+	- [cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+	
 	
 ## General Architecture
 - [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
@@ -134,7 +136,7 @@
 - [Kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design/) - Container Design Patterns for Kubernetes Pods Design.
 - [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd/) - Pattern and anti-pattern cicd.
-- [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Pattern and anti-pattern cicd.
+- [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
 
 
 ## Mobile
@@ -148,7 +150,7 @@
 	
 ## Front-End Development
 - [User Interface](http://ui-patterns.com/) - User Interface Design patterns.
-- [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?.
+- [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Front-End Architecture]
 	- [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.

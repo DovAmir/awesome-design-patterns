@@ -2,7 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Good design patterns resources should describe and explain several patterns (not describe a singal pattern only).
+- Good design patterns resources should describe and explain several patterns (not describe a single pattern only).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Use the following format: `[name](link) - Description.`
 - New categories, or improvements to the existing categorization are welcome.

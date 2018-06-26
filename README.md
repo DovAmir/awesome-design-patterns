@@ -186,6 +186,6 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
-[![Analytics](https://ga-beacon.appspot.com/UA-120817770-1/awesome-design-patterns?pixel)](https://github.com/igrigorik/ga-beacon)
+
 
 To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has waived all copyright and related or neighboring rights to this work.

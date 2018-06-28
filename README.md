@@ -98,6 +98,7 @@
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns.
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns.
 - [Solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures.
+- [Google Cloud Solutions](https://gcp.solutions/) - Real business cases solutions with diagrams on GCP.
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org/) - A community site dedicated to documenting a master patterns catalog.

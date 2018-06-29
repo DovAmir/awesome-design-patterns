@@ -18,6 +18,7 @@
 - [GoF design patterns](#languageframework-design-patterns-mainly-gof)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
+- [Serverless Architecture](#serverless-architecture)
 - [Micro services & Distributed Systems](#micro-services--distributed-systems)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
@@ -96,9 +97,11 @@
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - Building reliable, scalable, secure applications in the cloud.
 - [cloud patterns](http://cloudpatterns.org/) - A community site dedicated to documenting a master patterns catalog.
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org/) - Cloud Computing Patterns.
+- [Google Cloud Solutions](https://gcp.solutions/) - Real business cases solutions with diagrams on GCP.
+
+## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns/) - Serverless Architecture: Five Design Patterns.
 - [Solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures/) - Patterns for Solving Problems in Serverless Architectures.
-- [Google Cloud Solutions](https://gcp.solutions/) - Real business cases solutions with diagrams on GCP.
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org/) - A community site dedicated to documenting a master patterns catalog.

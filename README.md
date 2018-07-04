@@ -156,6 +156,7 @@
 - [user Interface](http://ui-patterns.com/) - User Interface Design patterns.
 - [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+- [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
 - [front-End Architecture]
 	- [mv*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
 	- [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.

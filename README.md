@@ -46,7 +46,7 @@
 - [Closure]
 	- [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 - [Go]
-	- [design-patterns](http://tmrts.com/go-patterns/)
+	- [design-patterns](https://github.com/tmrts/go-patterns)
 - [Java]
 	- [sourcemaking](https://sourcemaking.com/design_patterns)
 	- [oodesign](https://www.oodesign.com/)

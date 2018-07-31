@@ -7,9 +7,8 @@
 [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
 
 <h1 align="center">
-<a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-<a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> 
+<a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
 </h1>
 
 <br>
@@ -176,11 +175,6 @@
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
-
-## Videos
- - [TODO]
- 
-## Miscellaneous
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

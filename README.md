@@ -1,9 +1,9 @@
 # Awesome Software Design Patterns 
 
-<h1 align="center">
+
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
-</h1>
+
 
 > A curated list of software and architecture related design patterns.
 
@@ -14,7 +14,7 @@
 <br>
 
 ## Contents
-- [Programing language design patterns](#programing-language-design-patterns)
+- [Programming language design patterns](#programming-language-design-patterns)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
 - [Serverless Architecture](#serverless-architecture)

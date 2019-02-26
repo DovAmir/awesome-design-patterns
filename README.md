@@ -1,18 +1,20 @@
-# Awesome design patterns 
-
-> A curated list of software and architecture related design patterns.
-
-[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
+# Awesome Software Design Patterns 
 
 <h1 align="center">
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
 </h1>
 
+> A curated list of software and architecture related design patterns.
+
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
+
+
+
 <br>
 
 ## Contents
-- [GoF design patterns](#languageframework-design-patterns-mainly-gof)
+- [Programing language design patterns](#programing-language-design-patterns)
 - [General Architecture](#general-architecture)
 - [Cloud Architecture](#cloud-architecture)
 - [Serverless Architecture](#serverless-architecture)
@@ -30,52 +32,50 @@
 
 <br>
 
-## Language/Framework design patterns (mainly GoF) 
-- [AngularJS]
+## Programming Language Design Patterns
+- AngularJS
 	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
-- [C#]
+- C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans)
-- [C++]
+- C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
-- [Cat]
-	- [patterns for hoomans](https://github.com/mlnv/design-patterns-for-hoomans)
-- [Closure]
+- Closure
 	- [design-patterns](https://arturoherrero.com/closure-design-patterns/)
-- [Go]
+- Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
-- [Java]
+- Java
 	- [sourcemaking](https://sourcemaking.com/design_patterns)
 	- [oodesign](https://www.oodesign.com/)
 	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
-- [JavaScript]
+- JavaScript
 	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 	- [js_designpatterns](https://github.com/nnupoor/js_designpatterns)
 	- [addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
-- [Kotlin]
+- Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
 	- [gof-in-kotlin](https://github.com/lmller/gof-in-kotlin) 
-- [PHP]
+- PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
-- [Python]
+- Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) 
-- [React]
+- React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 	- [react-bits](https://github.com/vasanthk/react-bits)
-- [Ruby]
+- Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
-- [Scala]
+- Scala
 	- [scala-design-patterns](https://github.com/josephguan/scala-design-patterns)
-- [Swift]
+- Swift
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
-- [TypeScript]
+- TypeScript
 	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
-- [UML]
+- UML
 	- [quick reference](http://www.mcdonaldland.info/2007/11/28/40)
 	- [cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
 	
@@ -119,14 +119,14 @@
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
 
 ## Databases
-- [SQL]
+- SQL
 	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
 	- [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
 	- [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
 	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
 	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices. 
 	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
-- [NOSQL]
+- NOSQL
 	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
 	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
@@ -141,9 +141,9 @@
 
 
 ## Mobile
-- [ios]
+- IOS
 	- [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
-- [android]
+- Android
 	- [androidpatterns](https://unitid.nl/androidpatterns) - Interaction patterns that can help you design Android apps. 
 	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
 	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown. 

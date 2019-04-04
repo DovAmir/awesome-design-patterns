@@ -87,6 +87,7 @@
 - [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+- [cloud cost hacking](https://hackernoon.com/cloud-cost-hacking-fc35fd19985d) Patterns for reducing cloud costs. 
 
 
 ## Cloud Architecture

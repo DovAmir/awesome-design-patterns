@@ -45,7 +45,7 @@
 - Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java
-	- [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns
+	- [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
 	- [oodesign](https://www.oodesign.com/)  - pattenrs catalog with UML diagrams.
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [effective-java pattenrs](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
@@ -84,10 +84,10 @@
 - [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
-- [cloud cost hacking](https://hackernoon.com/cloud-cost-hacking-fc35fd19985d) Patterns for reducing cloud costs. 
 
 
 ## Cloud Architecture
+- [Cloud cost hacking](https://hackernoon.com/cloud-cost-hacking-fc35fd19985d) - Patterns for reducing cloud costs. 
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns) - Building reliable, scalable, secure applications in the cloud.
 - [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.

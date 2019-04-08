@@ -34,10 +34,10 @@
 
 ## Programming Language Design Patterns
 - AngularJS
-	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
+	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
-	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans)
+	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -45,39 +45,36 @@
 - Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java
-	- [sourcemaking](https://sourcemaking.com/design_patterns)
-	- [oodesign](https://www.oodesign.com/)
-	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
+	- [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns
+	- [oodesign](https://www.oodesign.com/)  - pattenrs catalog with UML diagrams.
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
-	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+	- [effective-java pattenrs](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
 - JavaScript
-	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-	- [js_designpatterns](https://github.com/nnupoor/js_designpatterns)
-	- [addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
+	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
+	- [design-patterns](https://github.com/nnupoor/js_designpatterns)
+	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
-	- [gof-in-kotlin](https://github.com/lmller/gof-in-kotlin) 
 - PHP
-	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
-	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) 
+	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-	- [react-bits](https://github.com/vasanthk/react-bits)
 - Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
 - Scala
-	- [scala-design-patterns](https://github.com/josephguan/scala-design-patterns)
+	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
 - Swift
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - TypeScript
-	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
+	- [design-patterns](https://github.com/torokmark/design_patterns_in_typescript)
 - UML
-	- [quick reference](http://www.mcdonaldland.info/2007/11/28/40)
-	- [cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
+	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
 	
 	
 ## General Architecture
@@ -139,7 +136,7 @@
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design) - Container Design Patterns for Kubernetes Pods Design.
 - [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd) - Pattern and anti-pattern cicd.
 - [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
-
+- [kubernetes patterns](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## Mobile
 - IOS

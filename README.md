@@ -37,7 +37,7 @@
 	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
-	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
+	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -46,18 +46,18 @@
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java
 	- [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
-	- [oodesign](https://www.oodesign.com/)  - pattenrs catalog with UML diagrams.
+	- [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
-	- [effective-java pattenrs](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+	- [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
 - JavaScript
 	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
+	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/nnupoor/js_designpatterns)
 	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
 - PHP
-	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra smiplifed explanation to design patterns.
+	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 

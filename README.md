@@ -49,6 +49,7 @@
 	- [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+	- [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
 - JavaScript
 	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.

@@ -172,6 +172,7 @@
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

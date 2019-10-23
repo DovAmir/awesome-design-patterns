@@ -63,6 +63,8 @@
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+- PowerShell
+	- [design-patterns](https://github.com/marcelotm23/powershell-design-patterns) 
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 	- [react-bits](https://github.com/vasanthk/react-bits)

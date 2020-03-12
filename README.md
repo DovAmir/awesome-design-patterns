@@ -175,6 +175,7 @@
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+- [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack.
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

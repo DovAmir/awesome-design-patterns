@@ -57,6 +57,8 @@
 	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
+- Node
+	- [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
 - PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 

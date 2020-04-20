@@ -80,6 +80,8 @@
 - UML
 	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+- Vue.js
+	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 	
 	
 ## General Architecture

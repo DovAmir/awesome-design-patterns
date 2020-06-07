@@ -104,6 +104,9 @@
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+
+
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.

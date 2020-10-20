@@ -1,4 +1,4 @@
-# Awesome Software Design Patterns 
+# Awesome Software and Architectual Design Patterns 
 <br>
 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
@@ -27,17 +27,15 @@
 - [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#books)
-- [Videos](#videos)
-- [Miscellaneous](#miscellaneous)
 
 <br>
 
 ## Programming Language Design Patterns
 - AngularJS
-	- [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
+	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
-	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans)
+	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -45,39 +43,43 @@
 - Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java
-	- [sourcemaking](https://sourcemaking.com/design_patterns)
-	- [oodesign](https://www.oodesign.com/)
-	- [from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda)
+	- [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
+	- [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
-	- [effective-java](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+	- [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+	- [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
 - JavaScript
-	- [es6](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-	- [js_designpatterns](https://github.com/nnupoor/js_designpatterns)
-	- [addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
+	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+	- [design-patterns](https://github.com/nnupoor/js_designpatterns)
+	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
-	- [gof-in-kotlin](https://github.com/lmller/gof-in-kotlin) 
+- Node
+	- [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
 - PHP
-	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
-	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) 
+	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 	- [react-bits](https://github.com/vasanthk/react-bits)
+	- [reactpatterns.com](https://reactpatterns.com)
 - Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
 - Scala
-	- [scala-design-patterns](https://github.com/josephguan/scala-design-patterns)
+	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
 - Swift
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - TypeScript
-	- [typescript](https://github.com/torokmark/design_patterns_in_typescript)
+	- [design-patterns](https://github.com/torokmark/design_patterns_in_typescript)
 - UML
-	- [quick reference](http://www.mcdonaldland.info/2007/11/28/40)
-	- [cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
+	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+- Vue.js
+	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 	
 	
 ## General Architecture
@@ -90,6 +92,7 @@
 
 
 ## Cloud Architecture
+- [Cloud cost hacking](https://hackernoon.com/cloud-cost-hacking-fc35fd19985d) - Patterns for reducing cloud costs. 
 - [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
 - [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns) - Building reliable, scalable, secure applications in the cloud.
 - [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.
@@ -99,6 +102,12 @@
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+- [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
+
+
+
+
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
@@ -138,7 +147,7 @@
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design) - Container Design Patterns for Kubernetes Pods Design.
 - [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd) - Pattern and anti-pattern cicd.
 - [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
-
+- [kubernetes patterns](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## Mobile
 - IOS
@@ -173,6 +182,7 @@
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

@@ -110,7 +110,6 @@
 
 
 ## Micro services & Distributed Systems
-- [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net) - The twelve-factor methodology.

@@ -36,6 +36,7 @@
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+	- [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary)
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure

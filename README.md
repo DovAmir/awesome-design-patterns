@@ -36,6 +36,7 @@
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+	- [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary)
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -110,13 +111,13 @@
 
 
 ## Micro services & Distributed Systems
-- [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net) - The twelve-factor methodology.
 - [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
 - [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws) - Comparing-message-queue-architectures.
 - [enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
+- [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
 
 ## Internet of things
 - [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.

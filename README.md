@@ -184,6 +184,7 @@
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

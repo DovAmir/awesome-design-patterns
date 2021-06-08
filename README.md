@@ -21,7 +21,7 @@
 - [Micro services & Distributed Systems](#micro-services--distributed-systems)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
-- [Databases](#databases)
+- [Databases and storage](#databases)
 - [Docker and DevOps](#docker-and-devops)
 - [Mobile](#mobile)
 - [Front End Development](#front-end-development)
@@ -78,6 +78,9 @@
 	- [reactpatterns.com](https://reactpatterns.com)
 - Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
+- Rust
+	- [design-patterns](https://rust-unofficial.github.io/patterns/) 
+
 - Scala
 	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
 - Swift
@@ -107,6 +110,8 @@
 - [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org) - Cloud Computing Patterns.
 - [Google Cloud Solutions](https://gcp.solutions) - Real business cases solutions with diagrams on GCP.
+- [saas tenant isolation strategies](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf) - Isolating Resources in a Multi-Tenant Environment
+- [design patterns for multi-tenancy](https://www.nagarro.com/en/blog/architectural-design-patterns-aws-multi-tenancy) - Architectural design patterns for multi-tenancy on AWS
 
 
 ## Serverless Architecture
@@ -135,7 +140,7 @@
 - [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns) - Map-reduce patterns.
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
 
-## Databases
+## Databases and Storage
 - SQL
 	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
 	- [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
@@ -143,11 +148,18 @@
 	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
 	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices. 
 	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
+	- [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift
 - NOSQL
 	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
 	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 	- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
+	- [Redis design patterns](https://redislabs.com/redis-best-practices/introduction/)
+	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
+- Storage
+	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
+	- [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
 
 ## DevOps & containers
 - [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.

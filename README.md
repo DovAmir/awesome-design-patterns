@@ -185,6 +185,7 @@
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 - [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+- [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

@@ -21,7 +21,7 @@
 - [Micro services & Distributed Systems](#micro-services--distributed-systems)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
-- [Databases](#databases)
+- [Databases and storage](#databases)
 - [Docker and DevOps](#docker-and-devops)
 - [Mobile](#mobile)
 - [Front End Development](#front-end-development)
@@ -31,6 +31,7 @@
 <br>
 
 ## Programming Language Design Patterns
+
 - AngularJS
 	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
 - C#
@@ -49,6 +50,7 @@
 	- [design-patterns](https://github.com/iluwatar/java-design-patterns)
 	- [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
 	- [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
+	- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - JavaScript
 	- [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
 	- [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
@@ -58,18 +60,27 @@
 	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
 - Node
 	- [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+	- [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+- Object Oriented
+	- [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
+	- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+	- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 - PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+	- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 	- [react-bits](https://github.com/vasanthk/react-bits)
 	- [reactpatterns.com](https://reactpatterns.com)
 - Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
+- Rust
+	- [design-patterns](https://rust-unofficial.github.io/patterns/) 
+
 - Scala
 	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
 - Swift
@@ -99,15 +110,17 @@
 - [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org) - Cloud Computing Patterns.
 - [Google Cloud Solutions](https://gcp.solutions) - Real business cases solutions with diagrams on GCP.
+- [saas tenant isolation strategies](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf) - Isolating Resources in a Multi-Tenant Environment
+- [design patterns for multi-tenancy](https://www.nagarro.com/en/blog/architectural-design-patterns-aws-multi-tenancy) - Architectural design patterns for multi-tenancy on AWS
+
 
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
 - [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
 - [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
-
-
-
+- [serverless-patterns-collection](https://serverlessland.com/patterns) - Serverless Patterns Collection.
+- [serverless-design-patterns-and-best-practices](https://www.packtpub.com/free-ebook/serverless-design-patterns-and-best-practices/9781788620642)
 
 
 ## Micro services & Distributed Systems
@@ -124,11 +137,10 @@
 - [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture.
 
 ## Big Data
-- [bigdatapatterns](http://bigdatapatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns) - Map-reduce patterns.
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
 
-## Databases
+## Databases and Storage
 - SQL
 	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
 	- [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
@@ -136,25 +148,34 @@
 	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
 	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices. 
 	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
+	- [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift
 - NOSQL
 	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
 	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
+	- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
+	- [Redis design patterns](https://redislabs.com/redis-best-practices/introduction/)
+	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
+- Storage
+	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
+	- [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
 
-## Docker and DevOps
+## DevOps & containers
 - [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
-- [container-anti-patterns](http://blog.arungupta.me/docker-container-anti-patterns) - 10 containers anti-patterns.
 - [kubernetes](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 - [container-design-patterns](https://vitalflux.com/container-design-patterns-kubernetes-pods-design) - Container Design Patterns for Kubernetes Pods Design.
-- [pattern-and-anti-pattern-cicd](https://www.gronau-it-cloud-computing.de/pattern-and-anti-pattern-cicd) - Pattern and anti-pattern cicd.
 - [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
 - [kubernetes patterns](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+- [kubernetes patterns book](https://k8spatterns.io/)
+- [cdk patterns](https://cdkpatterns.com/) - cdk patterns.
+- [CDK Construct Catalog](https://awscdk.io/) - CDK construct catalog.
+ 
 
 ## Mobile
 - IOS
 	- [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - Android
-	- [androidpatterns](https://unitid.nl/androidpatterns) - Interaction patterns that can help you design Android apps. 
 	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
 	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown. 
 	

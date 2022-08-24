@@ -26,7 +26,6 @@
 - [Mobile](#mobile)
 - [Front End Development](#front-end-development)
 - [Security](#security)
-- [Books](#books)
 
 <br>
 

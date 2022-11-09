@@ -199,7 +199,17 @@
 - [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
 - [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
-
+## Books
+- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+- [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
+- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+- [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
+- [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+- [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+- [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+- [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.

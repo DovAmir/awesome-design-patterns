@@ -91,6 +91,9 @@
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
 - Vue.js
 	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
+- Elixir
+	- [design-patterns](https://github.com/joshnuss/design-patterns-in-elixir)
+	- [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 	
 	
 ## General Architecture

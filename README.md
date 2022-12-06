@@ -22,7 +22,7 @@
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
 - [Databases and storage](#databases)
-- [Docker and DevOps](#docker-and-devops)
+- [DevOps & containers](#devops--containers)
 - [Mobile](#mobile)
 - [Front End Development](#front-end-development)
 - [Security](#security)

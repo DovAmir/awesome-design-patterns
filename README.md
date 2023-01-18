@@ -1,4 +1,4 @@
-# Awesome Software and Architectural Design Patterns 
+# Awesome Software and Architectural Design Patterns
 <br>
 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
@@ -7,7 +7,7 @@
 
 > A curated list of software and architecture related design patterns.
 
-[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. 
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations.
 
 
 
@@ -34,7 +34,7 @@
 - AngularJS
 	- [design patterns](https://github.com/mgechev/angularjs-in-patterns)
 - C#
-	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
+	- [design-patterns](https://github.com/abishekaditya/DesignPatterns)
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
 	- [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary)
 - C++
@@ -56,7 +56,7 @@
 	- [design-patterns](https://github.com/nnupoor/js_designpatterns)
 	- [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 - Kotlin
-	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) 
+	- [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 - Node
 	- [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
 	- [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
@@ -66,9 +66,9 @@
 	- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 - PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
-	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP) 
+	- [design-patterns](https://github.com/domnikl/DesignPatternsPHP)
 - Python
-	- [design-patterns](https://github.com/faif/python-patterns) 
+	- [design-patterns](https://github.com/faif/python-patterns)
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 	- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 - React
@@ -76,9 +76,9 @@
 	- [react-bits](https://github.com/vasanthk/react-bits)
 	- [reactpatterns.com](https://reactpatterns.com)
 - Ruby
-	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
+	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby)
 - Rust
-	- [design-patterns](https://rust-unofficial.github.io/patterns/) 
+	- [design-patterns](https://rust-unofficial.github.io/patterns/)
 
 - Scala
 	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
@@ -93,7 +93,7 @@
 	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 - Elixir
 	- [design-patterns](https://github.com/joshnuss/design-patterns-in-elixir)
-	- [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
+	- [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure.
 	
 	
 ## General Architecture
@@ -113,7 +113,7 @@
 - [cloud computing patterns](http://www.cloudcomputingpatterns.org) - Cloud Computing Patterns.
 - [Google Cloud Solutions](https://gcp.solutions) - Real business cases solutions with diagrams on GCP.
 - [saas tenant isolation strategies](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf) - Isolating Resources in a Multi-Tenant Environment
-- [design patterns for multi-tenancy](https://www.nagarro.com/en/blog/architectural-design-patterns-aws-multi-tenancy) - Architectural design patterns for multi-tenancy on AWS
+- [design patterns for multi-tenancy](https://www.nagarro.com/en/blog/architectural-design-patterns-aws-multi-tenancy) - Architectural design patterns for multi-tenancy on AWS.
 
 
 ## Serverless Architecture
@@ -144,23 +144,23 @@
 
 ## Databases and Storage
 - SQL
-	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
+	- [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns.
 	- [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
 	- [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
 	- [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
-	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices. 
+	- [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices.
 	- [sqlcheck](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
-	- [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift
+	- [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift.
 - NOSQL
 	- [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
 	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 	- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
-	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
-	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
+	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB.
+	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book.
 - Storage
-	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
-	- [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
+	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services.
+	- [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance.
 
 ## DevOps & containers
 - [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
@@ -177,8 +177,8 @@
 - IOS
 	- [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 - Android
-	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android. 
-	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown. 
+	- [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android.
+	- [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown.
 	
 	
 ## Front-End Development
@@ -217,7 +217,7 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 
 To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has waived all copyright and related or neighboring rights to this work.

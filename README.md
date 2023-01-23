@@ -70,6 +70,8 @@
 - Python
 	- [design-patterns](https://github.com/faif/python-patterns) 
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+	- [Python Design Patterns](https://python-patterns.guide/)
+	- [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 	- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)

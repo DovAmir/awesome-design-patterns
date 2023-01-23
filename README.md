@@ -62,7 +62,7 @@
 	- [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - Object Oriented
 	- [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books&ie=UTF8&qid=1528136036&sr=1-4&keywords=design+patterns)
-	- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+	- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/)
 	- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 - PHP
 	- [humans](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.

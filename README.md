@@ -135,6 +135,7 @@
 - [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws) - Comparing-message-queue-architectures.
 - [enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
 - [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
+- [api patterns](https://api-patterns.org/) - Patterns for (remote) API Design
 
 ## Internet of things
 - [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.

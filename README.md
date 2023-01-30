@@ -21,6 +21,7 @@
 - [Micro services & Distributed Systems](#micro-services--distributed-systems)
 - [Internet of things](#internet-of-things)
 - [Big Data](#big-data)
+- [Machine Learning](#machine-learning)
 - [Databases and storage](#databases)
 - [DevOps & containers](#devops--containers)
 - [Mobile](#mobile)
@@ -143,6 +144,9 @@
 ## Big Data
 - [mapreduce-patterns](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns) - Map-reduce patterns.
 - [streaming-realtime-analytics](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics) - 13 Stream Processing Patterns for building Streaming and Realtime Applications.
+
+## Machine Learning
+- [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
 
 ## Databases and Storage
 - SQL

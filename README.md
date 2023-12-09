@@ -42,6 +42,8 @@
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
 	- [design-patterns](https://arturoherrero.com/closure-design-patterns/)
+- Dart
+	- [Flutter Design Patterns](https://flutterdesignpatterns.com/) - OOP design patterns implemented in Dart and Flutter.
 - Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java

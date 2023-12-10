@@ -107,6 +107,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
 - [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
+- [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) - The hexagonal architecture pattern explained by Alistair Cockburn.
 
 
 ## Cloud Architecture

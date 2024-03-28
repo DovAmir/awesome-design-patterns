@@ -133,7 +133,7 @@
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net) - The twelve-factor methodology.
 - [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
-- [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws) - Comparing-message-queue-architectures.
+- [message-queues](https://tech.forter.com/comparing-message-queue-architectures-on-aws.html) - Comparing-message-queue-architectures.
 - [enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
 - [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
 

@@ -162,7 +162,7 @@
 	- [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
 	- [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
 	- [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
-	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
+	- [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advanced design patterns for Amazon DynamoDB
 	- [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
 - Storage
 	- [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services

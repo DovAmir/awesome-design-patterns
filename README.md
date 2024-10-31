@@ -86,8 +86,10 @@
 - Scala
 	- [design-patterns](https://github.com/josephguan/scala-design-patterns)
 - Swift
+	- [Developers-toolbox](https://github.com/Dots-n-Spaces/Developers-toolbox)
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - TypeScript
+	- [Developers-toolbox](https://github.com/Dots-n-Spaces/Developers-toolbox)
 	- [design-patterns](https://github.com/torokmark/design_patterns_in_typescript)
 - UML
 	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)

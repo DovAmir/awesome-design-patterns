@@ -89,6 +89,7 @@
 	- [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift)
 - TypeScript
 	- [design-patterns](https://github.com/torokmark/design_patterns_in_typescript)
+	- [real-world-design-patterns](https://github.com/vahidvdn/realworld-design-patterns)
 - UML
 	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)

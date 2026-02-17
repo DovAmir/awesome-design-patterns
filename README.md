@@ -101,6 +101,7 @@
 	
 ## General Architecture
 - [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
+- [Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture) - Backend architecture pattern with feature-first slices, explicit dependencies, and strict downward module boundaries.
 - [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 - [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
 - [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.

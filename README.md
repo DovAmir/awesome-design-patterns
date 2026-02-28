@@ -107,6 +107,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
 - [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
+- [Decision Reasoning Format (DRF)](https://github.com/reasoning-formats/reasoning-formats) - A vendor-neutral, machine-readable YAML/JSON format for representing technical decisions with explicit reasoning, assumptions, and trade-offs.
 
 
 ## Cloud Architecture

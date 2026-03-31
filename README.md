@@ -74,6 +74,7 @@
 	- [Python Design Patterns](https://python-patterns.guide/)
 	- [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 	- [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+    - [Software Design for Python Programmers](https://www.manning.com/books/software-design-for-python-programmers)
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 	- [react-bits](https://github.com/vasanthk/react-bits)

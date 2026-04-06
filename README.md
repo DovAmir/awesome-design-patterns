@@ -13,6 +13,7 @@
 
 <br>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing orchestrator, observer, and delegation patterns for multi-agent coordination. MIT licensed.
 ## Contents
 - [Programming language design patterns](#programming-language-design-patterns)
 - [General Architecture](#general-architecture)

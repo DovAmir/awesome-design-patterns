@@ -147,6 +147,8 @@
 
 ## Machine Learning
 - [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 
 ## Databases and Storage
 - SQL

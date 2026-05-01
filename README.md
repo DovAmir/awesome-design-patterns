@@ -106,7 +106,7 @@
 - [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 - [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
-- [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
+- [Grokking Software Architecture](https://www.manning.com/books/grokking-software-architecture) - A fast-paced introduction to the foundational ideas of software architecture, written for developers and aspiring architects.
 
 
 ## Cloud Architecture

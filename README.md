@@ -13,6 +13,28 @@
 
 <br>
 
+
+## Table of Contents
+
+- [Contents](#contents)
+- [Programming Language Design Patterns](#programming-language-design-patterns)
+- [General Architecture](#general-architecture)
+- [Cloud Architecture](#cloud-architecture)
+- [Serverless Architecture](#serverless-architecture)
+- [Micro services & Distributed Systems](#micro-services-distributed-systems)
+- [Internet of things](#internet-of-things)
+- [Big Data](#big-data)
+- [Machine Learning](#machine-learning)
+- [Databases and Storage](#databases-and-storage)
+- [DevOps & containers](#devops-containers)
+- [Mobile](#mobile)
+- [Front-End Development](#front-end-development)
+- [Security](#security)
+- [Books](#books)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Contents
 - [Programming language design patterns](#programming-language-design-patterns)
 - [General Architecture](#general-architecture)

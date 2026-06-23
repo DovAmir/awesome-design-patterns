@@ -147,6 +147,7 @@
 
 ## Machine Learning
 - [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
+- [Swarm Agent Pipeline](https://github.com/JohTandou/agent-swarm) — Architectural pattern for multi-agent software development: a 5-route complexity classifier (DIRECT → SIMPLE → ADAPT → MEDIUM → FULL) routes tasks to 9 specialized agents with mandatory quality gates (tests + code review) before merge.
 
 ## Databases and Storage
 - SQL

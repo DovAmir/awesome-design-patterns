@@ -136,6 +136,7 @@
 - [message-queues](http://tech.forter.com/comparing-message-queue-architectures-on-aws) - Comparing-message-queue-architectures.
 - [enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
 - [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) on authorization, clearing, settlement finality, idempotency, and double-entry ledger invariants.
 
 ## Internet of things
 - [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.
